@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutPractice</string>
+    <string name="search_button">WWW</string>
+    <string name="play_button">NOW PLAYING</string>
+</resources>
